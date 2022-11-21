@@ -1,0 +1,11 @@
+body{
+    background-color: teal;
+}
+section{
+    background-image: url(../images/img4.jpg);
+}
+
+#s{
+    background-image: none;
+    background-color: azure;
+}

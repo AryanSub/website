@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: seagreen;
+}
+
+main{
+    display: flex;
+    background-color:black;
+    margin: 0 25%;
+    color: white;
+
+}
+h1{
+    text-align: center;
+    margin: 0 auto;
+}
+
+button{
+    width:100px;
+    height:30px;
+    align-self: center;
+}
+a{
+    text-decoration: none;
+    color:red;
+}
+
+section{
+    background-image: url(../images/img2.webp);
+    height:70%;
+    width: 80%;
+    background-size: cover;
+    margin: 0 auto;
+    
+}
+/* curly brackets */
+/* id is represented using hashtag*/
+#sect1{
+    background-image: none;
+    background-color: rgb(216, 217, 217);
+}
